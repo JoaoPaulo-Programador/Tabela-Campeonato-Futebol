@@ -20,5 +20,5 @@ Este projeto simula a tabela de classificação de um campeonato de futebol com 
 
 O arquivo de entrada (exemplo: `TimesGols.txt`)                                                                                                                                                                  
 Exemplo de texto (TimesGols.txt):                                                                                                                                                                                
-GigantesPequenos 3 AguiasVoadoras 4
+GigantesPequenos 3 AguiasVoadoras 4                                                                                                                                                                              
 AlunosdeCueca 3 ProfessoresDeBiquini 4
